@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="add_video" transform="translate(-138 -165)">
+    <g id="Rectangle_58" data-name="Rectangle 58" transform="translate(138 165)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <g id="Icon" transform="translate(141.898 168.009)">
+      <path id="Path_27" data-name="Path 27" d="M427.355,223.636l-12.544,10.217a3.557,3.557,0,0,0-1.311,2.758v13.614a6.594,6.594,0,0,0,6.594,6.594H439.11a6.594,6.594,0,0,0,6.594-6.594V236.611a3.557,3.557,0,0,0-1.311-2.758l-12.544-10.217A3.557,3.557,0,0,0,427.355,223.636Z" transform="translate(-413.5 -222.836)" fill="#4749a0"/>
+      <path id="more" d="M7.3,0a7.3,7.3,0,1,0,7.3,7.3A7.31,7.31,0,0,0,7.3,0ZM10.5,7.911H7.911V10.5a.608.608,0,1,1-1.217,0V7.911H4.107a.608.608,0,1,1,0-1.217H6.694V4.107a.608.608,0,1,1,1.217,0V6.694H10.5a.608.608,0,1,1,0,1.217Zm0,0" transform="translate(8.674 11.61)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

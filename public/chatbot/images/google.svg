@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="google" transform="translate(-458 -614)">
+    <g id="BG" transform="translate(458 614)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Google__G__Logo" transform="translate(459.943 615.74)">
+      <path id="Path_39" data-name="Path 39" d="M281.955,225.185a12.067,12.067,0,0,0-.177-2.085H272.1v3.951h5.542a4.749,4.749,0,0,1-2.051,3.118v2.564H278.9A10.021,10.021,0,0,0,281.955,225.185Z" transform="translate(-261.84 -214.688)" fill="#4285f4"/>
+      <path id="Path_40" data-name="Path 40" d="M38.069,332.594a9.822,9.822,0,0,0,6.8-2.477l-3.306-2.564a6.223,6.223,0,0,1-9.252-3.253H28.9v2.643A10.262,10.262,0,0,0,38.069,332.594Z" transform="translate(-27.809 -312.073)" fill="#34a853"/>
+      <path id="Path_41" data-name="Path 41" d="M4.45,156.571a6.146,6.146,0,0,1,0-3.928V150H1.041a10.269,10.269,0,0,0,0,9.214Z" transform="translate(0.05 -144.344)" fill="#fbbc04"/>
+      <path id="Path_42" data-name="Path 42" d="M38.069,4.043A5.576,5.576,0,0,1,42,5.581h0l2.929-2.929A9.861,9.861,0,0,0,38.069-.018,10.258,10.258,0,0,0,28.9,5.637L32.308,8.28A6.137,6.137,0,0,1,38.069,4.043Z" transform="translate(-27.809 0.018)" fill="#ea4335"/>
+    </g>
+  </g>
+</svg>

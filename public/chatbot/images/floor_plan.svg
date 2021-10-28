@@ -1,0 +1,10 @@
+<svg id="floor_plan" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_305" data-name="Rectangle 305" width="24" height="24" fill="#a7b3cc" opacity="0"/>
+  <g id="Group_526" data-name="Group 526" transform="translate(1)">
+    <path id="Path_417" data-name="Path 417" d="M-1935.9,1038.858h3.837v-6.983h7.38v-10.6h-19v17.584h5.212" transform="translate(1945.681 -1018.274)" fill="none" stroke="#6c737f" stroke-width="2"/>
+    <path id="Path_418" data-name="Path 418" d="M-1945,1031.429h7.242v1.773" transform="translate(1947 -1018)" fill="none" stroke="#6c737f" stroke-width="2"/>
+    <path id="Path_419" data-name="Path 419" d="M-1933.4,1028.406v4" transform="translate(1947.015 -1018)" fill="none" stroke="#6c737f" stroke-width="2"/>
+    <path id="Path_420" data-name="Path 420" d="M-1933.4,1028.406v4h-1.634" transform="translate(1947.015 -1025)" fill="none" stroke="#6c737f" stroke-width="2"/>
+    <path id="Path_421" data-name="Path 421" d="M-1926,1025.889h-3.444" transform="translate(1947 -1018)" fill="none" stroke="#6c737f" stroke-width="2"/>
+  </g>
+</svg>
